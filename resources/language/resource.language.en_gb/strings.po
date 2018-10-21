@@ -351,3 +351,15 @@ msgstr ""
 msgctxt "#30083"
 msgid "Save bookmarks for library items / mark as watched"
 msgstr ""
+
+msgctxt "#30084"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "#30085"
+msgid "Cache item time-to-live (seconds)"
+msgstr ""
+
+msgctxt "#30086"
+msgid "Cache item time-to-live for metadata (seconds)"
+msgstr ""
