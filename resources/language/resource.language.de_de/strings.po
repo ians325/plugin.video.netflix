@@ -407,3 +407,7 @@ msgstr "Aktiviere HDR"
 msgctxt "#30099"
 msgid "Enable DolbyVision profiles"
 msgstr "Aktiviere DolbyVision"
+
+msgctxt "#30100"
+msgid "Results for \"{}\""
+msgstr "Ergebnisse für \"{}\""
