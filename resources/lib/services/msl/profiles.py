@@ -31,8 +31,9 @@ PROFILES = {
         # Audio
         'heaac-2-dash',
         # Subtiltes
-        # 'dfxp-ls-sdh',
+        'dfxp-ls-sdh',
         'simplesdh',
+        'webvtt-lssdh-ios8',
         # 'nflx-cmisc',
         # Unkown
         'BIF240', 'BIF320'],
